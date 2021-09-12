@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     #'rest_framework_simplejwt',
     'silk',
 
-    'korzinka_api'
+    'korzinka_api.apps.KorzinkaApiConfig'
 ]
 
 
